@@ -1,3 +1,1 @@
-# hikikomori
-
-A small static site.
+A small static site about Japan.
