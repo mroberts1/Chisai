@@ -129,7 +129,7 @@ header nav {
 
 header a {
     color: var(--text);
-    font-weight: 600;
+    font-weight: 400;
 }
 
 a {
@@ -161,7 +161,7 @@ main {
     padding: var(--s0);
     padding: var(--s-1);
     background-image: var(--dots);
-    background-size: calc(4 * 1px) calc(4 * 1px);
+    background-size: calc(1px) calc(1px);
     background-position: 0 0, calc(2 * 1px) calc(2 * 1px);
 }
 
