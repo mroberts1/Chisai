@@ -1,1 +1,1 @@
-A small static site about Japan.
+We are all *hikikomori* now.
